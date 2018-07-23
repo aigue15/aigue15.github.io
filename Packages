@@ -11,3 +11,15 @@ SHA1sum: 82443441e39db9005317b9770275ec186662eb01
 SHA256sum: 9e0bbf143230d8381d64c67e2276d511082a491e71df139d82d6c246e31f1b0c
 Filename: debs//com.aigue.3dtouchclear.deb
 
+Package: com.aigue.iamnogenius.deb
+Name: Dumbify 
+Version: 1.0
+Size: 2794
+Architecture: iphoneos-arm
+Description: Removes the genius feature of Spotify. Works with the latest Spotify app(8.4.62)
+Maintainer: Aigue <email@yahoo.com.tr>
+Section: Tweak
+MD5sum: 8f118d1f2f24c823fd74e74b85751672
+SHA1sum: 0780a601e1acac0da2eff93c87a46912cbe0f021
+SHA256sum: d418e2afe6543206bbcf915e1e9b1e12bcdd49ab557c73a8717ab010cae2a38f
+Filename: debs//com.aigue.iamnogenius.deb
