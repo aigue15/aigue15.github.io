@@ -1,6 +1,6 @@
 Package: com.aigue.3dtouchclear.deb
 Name: 3D Touch Notification Clear 
-Version: 1.0
+Version: 1.2
 Size: 4392
 Architecture: iphoneos-arm
 Description: Clear the notification with 3d touch. I did not made this tweak I found it on the web.
