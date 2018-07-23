@@ -18,10 +18,10 @@ Size: 826
 Architecture: iphoneos-arm
 Description: Clears the dock back ground. USE IT WITH ANEMONE!
 Maintainer: Aigue <egedincer@yahoo.com.tr>
-Depends: <mobilesubstrate><com.anemonetheming.anemone><com.aigue.3dtouchclear>
 Section: Themes
 MD5sum: 6e79e6a9e5b16b4e3ec3d8282388d101
 SHA1sum: a61768f27cc9ec9a66f732b4522497d5e1e3701b
 SHA256sum: 4b115de32ea24ccfa16bf2f8a7ddb179aa66f7affceda1e71a83e291f4729323
 Filename: debs//com.aigue.dockshadowremover.deb
+
 
