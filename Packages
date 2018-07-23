@@ -16,6 +16,7 @@ Name: Dock Shadow Remover
 Version: 3.0
 Size: 826
 Architecture: iphoneos-arm
+Depends: <com.aigue.3dtouchclear>
 Description: Clears the dock back ground. USE IT WITH ANEMONE!
 Maintainer: Aigue <egedincer@yahoo.com.tr>
 Section: Themes
