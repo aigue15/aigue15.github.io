@@ -25,4 +25,17 @@ SHA1sum: a61768f27cc9ec9a66f732b4522497d5e1e3701b
 SHA256sum: 4b115de32ea24ccfa16bf2f8a7ddb179aa66f7affceda1e71a83e291f4729323
 Filename: debs//com.aigue.dockshadowremover.deb
 
+Package: com.aigue.iamnogenius.deb
+Name: Dumbify 
+Version: 1.0
+Size: 2794
+Architecture: iphoneos-arm
+Description: Removes the genius feature of Spotify. Works with the latest Spotify app(8.4.62)
+Maintainer: Aigue <email@yahoo.com.tr>
+Section: Tweak
+MD5sum: 8f118d1f2f24c823fd74e74b85751672
+SHA1sum: 0780a601e1acac0da2eff93c87a46912cbe0f021
+SHA256sum: d418e2afe6543206bbcf915e1e9b1e12bcdd49ab557c73a8717ab010cae2a38f
+Filename: debs//com.aigue.iamnogenius.deb
+
 
