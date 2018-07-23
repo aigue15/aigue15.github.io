@@ -1,14 +1,13 @@
-Package: (com.yourname.packagename)
-Name: (Tweak Name) 
-Version: (Version Number)
-Size: (Size in Bytes)
+Package: com.aigue.3dtouchclear.deb
+Name: 3D Touch Notification Clear 
+Version: 1.0
+Size: 4392
 Architecture: iphoneos-arm
-Description: (Tweak Description)
-Maintainer: (Name) <email@provider.com>
-Author: (Name) <email@provider.com>
-Section: (Cydia Section)
-MD5sum:
-SHA1sum:
-SHA256sum:
-Filename: debs//(Tweak Name).deb
+Description: Clear the notification with 3d touch. I did not made this tweak I found it on the web.
+Maintainer: Aigue <egedincer@yahoo.com.tr>
+Section: Tweaks
+MD5sum: 6b3623205bcB2dc37514fd4bd53b9a88
+SHA1sum: 82443441e39db9005317b9770275ec186662eb01
+SHA256sum: 9e0bbf143230d8381d64c67e2276d511082a491e71df139d82d6c246e31f1b0c
+Filename: debs//com.aigue.3dtouchclear.deb
 
