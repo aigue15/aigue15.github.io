@@ -53,4 +53,18 @@ SHA1sum: f168ee449236f77aea1acd1c7f47864ee58737d0
 SHA256sum: 405de612376f80be0b52e7a11fce9f255a123b0d1b7f7e2fc49e0c4d51415c63
 Filename: debs//com.aigue.aiguesoundpack.deb
 
+Package: com.aigue.sound1.deb
+Name: Aigue Sound Pack 1.1 
+Version: 1.0
+Size: 327331
+Architecture: iphoneos-arm
+Description: The same thing with Aigue Sound Pack 1 just a diffrent way to download it.
+Maintainer: Aigue <egedincer@yahoo.com.tr>
+Author: Aigue <egedincer@yahoo.com.tr>
+Section: Theme
+MD5sum: 57faa52b137ab3c62ca00f97f7603b49
+SHA1sum: a83cfe82b8a95c31d2e97b805cf3d16c4d0b12df
+SHA256sum: b9a5320b2b28a91d15519a5034aa7dae475fd093ad24665503132dc17a1e66d2
+Filename: debs//com.aigue.sound1.deb
+
 
