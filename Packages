@@ -1,3 +1,17 @@
+Package: (com.yourname.packagename)
+Name: (Tweak Name) 
+Version: (Version Number)
+Size: (Size in Bytes)
+Architecture: iphoneos-arm
+Description: (Tweak Description)DO NOT DOWNLOAD THIS
+Maintainer: (Name) <email@provider.com>
+Author: (Name) <email@provider.com>
+Section: (Cydia Section)
+MD5sum:
+SHA1sum:
+SHA256sum:
+Filename: debs//(Tweak Name).deb
+
 Package: com.aigue.3dtouchclear.deb
 Name: 3D Touch Notification Clear 
 Version: 1.2
@@ -23,3 +37,20 @@ MD5sum: 8f118d1f2f24c823fd74e74b85751672
 SHA1sum: 0780a601e1acac0da2eff93c87a46912cbe0f021
 SHA256sum: d418e2afe6543206bbcf915e1e9b1e12bcdd49ab557c73a8717ab010cae2a38f
 Filename: debs//com.aigue.iamnogenius.deb
+
+
+Package: com.aigue.aiguesoundpack.deb
+Name: Aigue Sound Pack 1 
+Version: 1.0
+Size: 242840
+Architecture: iphoneos-arm
+Description: WIP, sound pack. Right now it contains 1- The wrltlng sound from life is strange as keyboard sound 2- camera shotter/ screenshot 3- message send 4- a lock noise 5- power connection noise.
+Maintainer: Aigue <egedincer@yahoo.com.tr>
+Author: Aigue <egedincer@yahoo.com.tr>
+Section: Theme
+MD5sum: d796e1e9597db3ac1ada99c2bb0b6aee
+SHA1sum: f168ee449236f77aea1acd1c7f47864ee58737d0
+SHA256sum: 405de612376f80be0b52e7a11fce9f255a123b0d1b7f7e2fc49e0c4d51415c63
+Filename: debs//com.aigue.aiguesoundpack.deb
+
+
