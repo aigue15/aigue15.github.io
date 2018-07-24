@@ -105,7 +105,7 @@ Architecture: iphoneos-arm
 Description: shortcut to instagram++
 Maintainer: Aigue <egedincer@yahoo.com.tr>
 Author: UnlimApps Inc. <support@unlimapps.com>
-Section: UnlimApps
+Section: Tweaks
 MD5sum: 9abffd720c35aba862ed36f46b00e038
 SHA1sum:2d595164e342d880443f1193c52a3d667739537f
 SHA256sum:c23cf0f79015afc5e7547970a1eff2c70cac300e8d66426661f4de5861dea8ef
