@@ -57,7 +57,8 @@ Filename: debs//com.aigue.sound1.deb
 
 
 Package: com.aigue.keyboardaccio.deb
-Name: Keyboardaccio 
+Name: Keyboardaccio
+Depends: mobilesubstrate (),firmware (>=12.0) 
 Version: 2.3.4
 Size: 5894
 Architecture: iphoneos-arm
@@ -68,6 +69,21 @@ MD5sum: a3710db283a4bd77db43a42a4382670f
 SHA1sum: fbeebecb93dea25b94e4a8de9296ab1b382569f5
 SHA256sum: 0c502f55422ef3257edc87e8db9092f92acd0e480c7d9dcfd99d9d709767c435
 Filename: debs//com.aigue.keyboardaccio.deb
+
+Package: com.unlimapps.uasharedtools_2.2r-59_iphoneos-arm.deb
+Name:  
+Version: (Version Number)
+Size: (Size in Bytes)
+Architecture: iphoneos-arm
+Description: (Tweak Description)
+Maintainer: Aigue <egedincer@yahoo.com.tr>
+Author: (Name) <email@provider.com>
+Section: (Cydia Section)
+MD5sum:
+SHA1sum:
+SHA256sum:
+Filename: debs//com.unlimapps.uasharedtools_2.2r-59_iphoneos-arm.deb
+
 
 
 
