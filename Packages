@@ -70,7 +70,7 @@ SHA256sum: 0c502f55422ef3257edc87e8db9092f92acd0e480c7d9dcfd99d9d709767c435
 Filename: debs//com.aigue.keyboardaccio.deb
 
 Package: com.unlimapps.uasharedtools.deb
-Name:  UasharedtoolsDeneme
+Name:  Uasharedtools
 Version: 2.2r-59
 Size: 674
 Architecture: iphoneos-arm
@@ -84,7 +84,7 @@ SHA256sum: 0ef8df703c7a4a1bb3ea82069a1d60d210cd85ce632d9a4dd8ac85f5c2c0227b
 Filename: debs//com.unlimapps.uasharedtools.deb
 
 Package: com.unlimapps.uasharedtools.nostash.deb
-Name: uasharedtoolsdeneme (nostash)
+Name: uasharedtools(nostash)
 Version: 2.2r-59
 Size: 22786466
 Architecture: iphoneos-arm
