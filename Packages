@@ -70,7 +70,7 @@ SHA256sum: 0c502f55422ef3257edc87e8db9092f92acd0e480c7d9dcfd99d9d709767c435
 Filename: debs//com.aigue.keyboardaccio.deb
 
 Package: com.unlimapps.uasharedtools.deb
-Name:  Uasharedtools
+Name:  UasharedtoolsDeneme
 Version: 2.2r-59
 Size: 674
 Architecture: iphoneos-arm
