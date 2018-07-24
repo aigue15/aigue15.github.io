@@ -53,7 +53,6 @@ SHA1sum: a83cfe82b8a95c31d2e97b805cf3d16c4d0b12df
 SHA256sum: b9a5320b2b28a91d15519a5034aa7dae475fd093ad24665503132dc17a1e66d2
 Filename: debs//com.aigue.sound1.deb
 
-com.aigue.keyboardaccio_2.3.3.deb
 
 Package: com.aigue.keyboardaccio_2.3.3.deb
 Name: Keyboardaccio 
@@ -66,7 +65,7 @@ Section: Tweaks
 MD5sum: a3710db283a4bd77db43a42a4382670f
 SHA1sum: fbeebecb93dea25b94e4a8de9296ab1b382569f5
 SHA256sum: 0c502f55422ef3257edc87e8db9092f92acd0e480c7d9dcfd99d9d709767c435
-Filename: debs//keyboardaccio_2.3.3.deb
+Filename: debs//co.aigue.keyboardaccio_2.3.3.deb
 
 
 
