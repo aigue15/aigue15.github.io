@@ -97,7 +97,7 @@ SHA1sum: cd37e356ad0a977bd2f418f82868ec0a2fefcc8d
 SHA256sum: a48660e5dcc767824a3f7ad7a9d66f1e1c27f304f2e4c1f769fb1e89d326d397
 Filename: debs//com.unlimapps.uasharedtools.nostash.deb
 
-Package: com.unlimapps.gramplus_1.8r-171_iphoneos-arm.deb
+Package: com.unlimapps.gramplus.deb
 Name: Instagram++ 
 Version: 1.8r-171
 Size: 4632366
