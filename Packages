@@ -14,10 +14,10 @@ Filename: debs//(Tweak Name).deb
 
 Package: com.aigue.3dtouchclear.deb
 Name: 3D Touch Notification Clear 
-Version: 1.2
+Version: 1.3
 Size: 4392
 Architecture: iphoneos-arm
-Description: Clear the notification with 3d touch. I did not made this tweak I found it on the web.
+Description: Clear the notification with 3d touch. I did not made this tweak I found it on the web. You can find the original in Bigboss repo.           Change Log: 1.0               - Initial Release.
 Maintainer: Aigue <egedincer@yahoo.com.tr>
 Section: Tweaks
 MD5sum: 6b3623205bcb2dc37514fd4bd53b9a88
@@ -27,7 +27,7 @@ Filename: debs//com.aigue.3dtouchclear.deb
 
 Package: com.aigue.iamnogenius.deb
 Name: Dumbify 
-Version: 1.0
+Version: 1.2
 Size: 2794
 Architecture: iphoneos-arm
 Description: Removes the genius feature of Spotify. Works with the latest Spotify app(8.4.62)
