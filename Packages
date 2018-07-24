@@ -84,7 +84,7 @@ SHA256sum: 0ef8df703c7a4a1bb3ea82069a1d60d210cd85ce632d9a4dd8ac85f5c2c0227b
 Filename: debs//com.unlimapps.uasharedtools.deb
 
 Package: com.unlimapps.uasharedtools.nostash_2.2r-59_iphoneos-arm.deb
-Name: uasharedtools (nostash)
+Name: uasharedtoolsdeneme (nostash)
 Version: 2.2r-59
 Size: 22786466
 Architecture: iphoneos-arm
