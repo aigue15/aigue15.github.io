@@ -58,7 +58,7 @@ Filename: debs//com.aigue.sound1.deb
 
 Package: com.aigue.keyboardaccio.deb
 Name: Keyboardaccio 
-Version: 2.3.3
+Version: 2.3.4
 Size: 5894
 Architecture: iphoneos-arm
 Description: A useful shortcut I made to download keyboardaccio.
