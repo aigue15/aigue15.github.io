@@ -3,7 +3,9 @@ Name: 3D Touch Notification Clear
 Version: 1.3
 Size: 4392
 Architecture: iphoneos-arm
-Description: Clear the notification with 3d touch. I did not made this tweak I found it on the web. You can find the original in Bigboss repo.           Change Log: 1.0               - Initial Release.
+Description: Clear the notification with 3d touch. I did not made this tweak I found it on the web. You can find the original in Bigboss repo.           
+Change Log: 
+         1.0       - Initial Release.
 Maintainer: Aigue <egedincer@yahoo.com.tr>
 Section: Tweaks
 MD5sum: 6b3623205bcb2dc37514fd4bd53b9a88
@@ -65,7 +67,7 @@ Section: Tweaks
 MD5sum: a3710db283a4bd77db43a42a4382670f
 SHA1sum: fbeebecb93dea25b94e4a8de9296ab1b382569f5
 SHA256sum: 0c502f55422ef3257edc87e8db9092f92acd0e480c7d9dcfd99d9d709767c435
-Filename: debs//co.aigue.keyboardaccio_2.3.3.deb
+Filename: debs//com.aigue.keyboardaccio_2.3.3.deb
 
 
 
