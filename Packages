@@ -58,8 +58,8 @@ Filename: debs//com.aigue.sound1.deb
 
 Package: com.aigue.keyboardaccio.deb
 Name: Keyboardaccio
-Depends: mobilesubstrate (),firmware (>=12.0) 
-Version: 2.3.4
+Depends: mobilesubstrate ,firmware (>=12.0) 
+Version: 2.4.4
 Size: 5894
 Architecture: iphoneos-arm
 Description: A useful shortcut I made to download keyboardaccio.
@@ -71,17 +71,17 @@ SHA256sum: 0c502f55422ef3257edc87e8db9092f92acd0e480c7d9dcfd99d9d709767c435
 Filename: debs//com.aigue.keyboardaccio.deb
 
 Package: com.unlimapps.uasharedtools_2.2r-59_iphoneos-arm.deb
-Name:  
-Version: (Version Number)
-Size: (Size in Bytes)
+Name:  uasharedtools
+Version: 2.2r-59
+Size: 674
 Architecture: iphoneos-arm
-Description: (Tweak Description)
+Description: Compatible with iOs 7,8 and 9. Shared tools for ++ tweaks.
 Maintainer: Aigue <egedincer@yahoo.com.tr>
-Author: (Name) <email@provider.com>
-Section: (Cydia Section)
-MD5sum:
-SHA1sum:
-SHA256sum:
+Author: UnlimApps Inc. <support@unlimapps.com>
+Section: Tools
+MD5sum: 66f5cf3c5334ad74670410a695d9c870
+SHA1sum: 442c550fe7e0c3ec88b0f5e952e21355999c5bdf
+SHA256sum: 0ef8df703c7a4a1bb3ea82069a1d60d210cd85ce632d9a4dd8ac85f5c2c0227b
 Filename: debs//com.unlimapps.uasharedtools_2.2r-59_iphoneos-arm.deb
 
 
