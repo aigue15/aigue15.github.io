@@ -77,11 +77,26 @@ Architecture: iphoneos-arm
 Description: Compatible with iOs 7,8 and 9. Shared tools for ++ tweaks.
 Maintainer: Aigue <egedincer@yahoo.com.tr>
 Author: UnlimApps Inc. <support@unlimapps.com>
-Section: Tools
+Section: Sistem
 MD5sum: 66f5cf3c5334ad74670410a695d9c870
 SHA1sum: 442c550fe7e0c3ec88b0f5e952e21355999c5bdf
 SHA256sum: 0ef8df703c7a4a1bb3ea82069a1d60d210cd85ce632d9a4dd8ac85f5c2c0227b
 Filename: debs//com.unlimapps.uasharedtools.deb
+
+Package: com.unlimapps.uasharedtools.nostash_2.2r-59_iphoneos-arm.deb
+Name: uasharedtools (nostash)
+Version: 2.2r-59
+Size: 22786466
+Architecture: iphoneos-arm
+Description: Shortcut to uasharedtools (nostash)
+Maintainer: Aigue <egedincer@yahoo.com.tr>
+Author: UnlimApps Inc. <support@unlimapps.com>
+Section: Sistem
+MD5sum: fc765da43c2db13a172d4b349cfa3f80
+SHA1sum: cd37e356ad0a977bd2f418f82868ec0a2fefcc8d
+SHA256sum: a48660e5dcc767824a3f7ad7a9d66f1e1c27f304f2e4c1f769fb1e89d326d397
+Filename: debs//(Tweak Name).deb
+
 
 
 
