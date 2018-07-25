@@ -111,6 +111,20 @@ SHA1sum:2d595164e342d880443f1193c52a3d667739537f
 SHA256sum:c23cf0f79015afc5e7547970a1eff2c70cac300e8d66426661f4de5861dea8ef
 Filename: debs//com.unlimapps.gramplus.deb
 
+Package: com.aigue.noshareplz.deb
+Name: NoSharePLZ 
+Version: 1.0
+Size: 3990
+Architecture: iphoneos-arm
+Description: It removes the "Share" option from 3dtouch menu. I did not made this tweak I found it on Reddit.
+Maintainer: Aigue <egedincer@yahoo.com.tr>
+Section: Tweaks
+MD5sum:fb34987bfee6ac1bc72e0a6c64cd3292
+SHA1sum:3cf1a987b821419db47f9239e4ab2a7b257ab21e
+SHA256sum:a14dbc084c455d00ac7b851818a3f4e6df31195dc11c09ff6574c478359bb1c1
+Filename: debs//com.aigue.noshareplz.deb
+
+
 
 
 
