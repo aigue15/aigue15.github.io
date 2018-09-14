@@ -1,0 +1,38 @@
+#import <Opener/Opener.h>
+
+@interface XXXwikiopener : HBLOHandler
+
+@end
+
+@implementation XXXwikiopener
+
+- (instancetype)init {
+self = [super init];
+
+if (self) {
+self.name = @"Wiki Opener";
+self.identifier = @"com.aigue.wikiopener";
+}
+
+return self;
+}
+
+- (id)openURL:(NSURL *)url sender:(NSString *)sender {
+
+if ([url.host isEqualToString:@"www.wikipedia.org"] ||
+[url.host isEqualToString:@"wikipedia.org"] ||
+[url.host isEqualToString:@"en.wikipedia.org"] ||
+[url.host isEqualToString:@"tr.wikipedia.org"] ||
+[url.host containsString:@"m.wikipedia.org"]) {
+
+if ([url.path isEqualToString:@"/"] || [url.path isEqualToString:@""]) {
+return [NSURL URLWithString:@"0wikipedia.org"];
+} else {
+return [NSURL URLWithString:[NSString stringWithFormat:@"0wikipedia.org%@/?%@", url.path, url.query]];
+}
+}
+
+return nil;
+}
+
+@end
